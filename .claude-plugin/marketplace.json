@@ -9,8 +9,8 @@
       "name": "timeback",
       "description": "Timeback/QTI platform reference — prevents XML, rendering, and API integration bugs across AP course builds.",
       "source": {
-        "source": "github",
-        "repo": "ilmych/incept-timeback-plugin",
+        "source": "url",
+        "url": "https://github.com/ilmych/incept-timeback-plugin.git",
         "sha": "4bc5b42ee993cec263fd035a3a5b2f33db121d5b"
       },
       "author": {
