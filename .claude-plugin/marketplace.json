@@ -1,0 +1,24 @@
+{
+  "name": "incept-plugins",
+  "owner": {
+    "name": "Incept",
+    "email": "ilma@incept.ai"
+  },
+  "plugins": [
+    {
+      "name": "timeback",
+      "description": "Timeback/QTI platform reference — prevents XML, rendering, and API integration bugs across AP course builds.",
+      "source": {
+        "source": "github",
+        "repo": "ilmych/incept-timeback-plugin",
+        "sha": "4bc5b42ee993cec263fd035a3a5b2f33db121d5b"
+      },
+      "author": {
+        "name": "Ilma",
+        "email": "ilma@incept.ai"
+      },
+      "category": "development",
+      "keywords": ["timeback", "qti", "oneroster", "edtech", "assessment"]
+    }
+  ]
+}
